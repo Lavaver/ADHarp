@@ -1,0 +1,18 @@
+﻿<Page x:Class="ADHarp.WelcomePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:ADHarp"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="WelcomePage">
+
+    <Grid>
+        <Label Content="欢迎" HorizontalAlignment="Left" Margin="41,25,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <Label Content="本软件是由一名闲着蛋疼的初中生写出来的" HorizontalAlignment="Left" Margin="41,96,0,0" VerticalAlignment="Top"/>
+        <Label Content="此工具集小巧轻便，可以随用随走" HorizontalAlignment="Left" Margin="43,136,0,0" VerticalAlignment="Top"/>
+        <Label Content="(csharp WPF ，一次编写，处处不是在调试和处理 Bug 的路上就在路上了）" HorizontalAlignment="Left" Margin="43,178,0,0" VerticalAlignment="Top"/>
+        <Label Content="总之好好享受这个自由软件吧！" HorizontalAlignment="Left" Margin="43,225,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Page>

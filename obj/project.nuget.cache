@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "mSQvVdqX69GkbubPYOnGYldnAsmnaNIuisKLi/lRoMOxO1fIHBDHMOav04fiZg2rOmlT9II+RV/7iWWtGtbGkQ==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\ADHarp\\ADHarp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vvv\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\vvv\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\vvv\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\vvv\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
+    "C:\\Users\\vvv\\.nuget\\packages\\prism.wpf\\8.1.97\\prism.wpf.8.1.97.nupkg.sha512",
+    "C:\\Users\\vvv\\.nuget\\packages\\system.io.abstractions\\20.0.4\\system.io.abstractions.20.0.4.nupkg.sha512",
+    "C:\\Users\\vvv\\.nuget\\packages\\testableio.system.io.abstractions\\20.0.4\\testableio.system.io.abstractions.20.0.4.nupkg.sha512",
+    "C:\\Users\\vvv\\.nuget\\packages\\testableio.system.io.abstractions.wrappers\\20.0.4\\testableio.system.io.abstractions.wrappers.20.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
